@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.util.Scanner;
 public class CRUD {
-    static String url = "jdbc:mysql://localhost:3306/collegedb1";
+    static String url = "jdbc:mysql://localhost:3307/collegedb";
     static String user = "root";
     static String pass = "";
 
